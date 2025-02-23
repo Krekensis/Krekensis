@@ -1,9 +1,10 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krekensis&label=Profile%20views&color=5879fd&style=flat" alt="krekensis" /> </p>
+
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krekensis&label=Profile%20views&color=5879fd&style=flat" alt="krekensis" /> </p>
-<p align="left">🎓 I'm a university student<br>🌱 Currently learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="20" alt="react logo"  /> & <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="20" alt="tailwindcss logo"  /><br>👍 I like to do UI / UX design and GFX design</p>
+<p align="left">🎓 I'm a university student<br>🌱 Currently learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="17" alt="react logo"  /> & <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="17" alt="tailwindcss logo"  /><br>👍 I like to do UI / UX design and GFX design</p>
 
 ###
 
