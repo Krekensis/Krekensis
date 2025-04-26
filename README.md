@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krekensis&label=Profile%20views&color=5879fd&style=flat" alt="krekensis" /> </p>
-
 <h2 align="left">About me</h2>
 
 ###
