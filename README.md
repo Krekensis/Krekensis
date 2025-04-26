@@ -41,27 +41,7 @@
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
   <img width="7" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="38" alt="npm logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38" alt="numpy logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38" alt="pandas logo"  />
-  <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="38" alt="pycharm logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="jupyter logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="38" alt="anaconda logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38" alt="figma logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=git" height="38" alt="git logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=ps" height="38" alt="adobephotoshop logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=ae" height="38" alt="adobeaftereffects logo"  />
 </div>
 
 ###
