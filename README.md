@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 I'm a university student<br>🌱 Currently learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="17" alt="react logo"  /> & <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="17" alt="tailwindcss logo"  /><br>👍 I like to do UI / UX design and GFX design</p>
+<p align="left">🎓 I'm a university student<br>🌱 Currently learning <img src="https://cdn.simpleicons.org/react/61DAFB" height="17" alt="react logo"  />, <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="17" alt="svelte logo"> & <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="17" alt="tailwindcss logo"  /><br>👍 I like to do UI / UX design and GFX design</p>
 
 ###
 
@@ -17,7 +17,7 @@
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38" alt="c logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" height="38" alt="c logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="38" alt="cplusplus logo"  />
   <img width="7" />
