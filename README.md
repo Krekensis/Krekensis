@@ -31,15 +31,21 @@
   <img width="7" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="38" alt="nodejs logo"  />
   <img width="7" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="38" alt="react logo"  />
+  <img src="https://cdn.simpleicons.org/express/white" height="38" alt="express" />
   <img width="7" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="38" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="react logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="38" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="tailwindcss logo"  />
   <img width="7" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="38" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="mongodb logo"  />
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
+  <img width="7" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1280px-PyTorch_logo_icon.svg.png" height="38" alt="pyTorch logo"  /> 
+  <img width="7" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="37" alt="Kaggle"/>
 </div>
 
 ###
